@@ -290,3 +290,4 @@ if loaded:
         st.info("Upload a CSV file or load the example dataset to begin.")
 else:
     st.info("Set the correct artifact folder in the sidebar to begin.")
+
